@@ -2,9 +2,19 @@ import React from 'react';
 import { Stack } from 'expo-router';
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
+import { useFonts } from 'expo-font';
+import { Ionicons } from '@expo/vector-icons';
 import { Colors, Typography } from '../constants/theme';
 
 export default function RootLayout() {
+  const [loaded, error] = useFonts({
+    ...Ionicons.font,
+  });
+
+  if (!loaded && !error) {
+    return null;
+  }
+
   return (
     <SafeAreaProvider>
       <StatusBar style="dark" backgroundColor={Colors.background} />

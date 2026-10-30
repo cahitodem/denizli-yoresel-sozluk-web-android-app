@@ -45,15 +45,8 @@ export const WordOfTheDayCard: React.FC<WordOfTheDayCardProps> = ({
   };
 
   return (
-    <TouchableOpacity
-      onPress={onPress}
-      activeOpacity={0.88}
-      accessibilityRole="button"
-      accessibilityLabel={`Günün kelimesi: ${word.word}, anlamı: ${word.meaning}`}
-      accessibilityHint="Günün kelimesinin detaylarını görüntülemek için dokunun"
-      style={styles.container}
-    >
-      {/* Top Banner Tag */}
+    <View style={styles.container}>
+      {/* Top Banner Tag & Actions */}
       <View style={styles.badgeRow}>
         <View style={styles.spotlightBadge}>
           <Ionicons name="sparkles" size={14} color={Colors.accent} style={styles.badgeIcon} />
@@ -84,51 +77,61 @@ export const WordOfTheDayCard: React.FC<WordOfTheDayCardProps> = ({
         </View>
       </View>
 
-      {/* Main Word Title & Category */}
-      <View style={styles.wordSection}>
-        <Text style={styles.wordText} numberOfLines={1}>
-          {word.word}
+      {/* Clickable Card Body */}
+      <TouchableOpacity
+        onPress={onPress}
+        activeOpacity={0.88}
+        accessibilityRole="button"
+        accessibilityLabel={`Günün kelimesi: ${word.word}, anlamı: ${word.meaning}`}
+        accessibilityHint="Günün kelimesinin detaylarını görüntülemek için dokunun"
+        style={styles.bodyTouchable}
+      >
+        {/* Main Word Title & Category */}
+        <View style={styles.wordSection}>
+          <Text style={styles.wordText} numberOfLines={1}>
+            {word.word}
+          </Text>
+
+          {categoryInfo ? (
+            <View style={styles.categoryBadge}>
+              <Ionicons
+                name={(categoryInfo.iconName as IconName) || 'pricetag-outline'}
+                size={13}
+                color={Colors.primary}
+                style={styles.categoryIcon}
+              />
+              <Text style={styles.categoryLabel}>{categoryInfo.label}</Text>
+            </View>
+          ) : null}
+        </View>
+
+        {/* Meaning */}
+        <Text style={styles.meaningText} numberOfLines={3}>
+          {word.meaning}
         </Text>
 
-        {categoryInfo ? (
-          <View style={styles.categoryBadge}>
+        {/* Example Quote */}
+        {word.example_sentence ? (
+          <View style={styles.exampleContainer}>
             <Ionicons
-              name={(categoryInfo.iconName as IconName) || 'pricetag-outline'}
-              size={13}
-              color={Colors.primary}
-              style={styles.categoryIcon}
+              name="chatbubble-ellipses-outline"
+              size={16}
+              color={Colors.accent}
+              style={styles.quoteIcon}
             />
-            <Text style={styles.categoryLabel}>{categoryInfo.label}</Text>
+            <Text style={styles.exampleText} numberOfLines={3}>
+              "{word.example_sentence}"
+            </Text>
           </View>
         ) : null}
-      </View>
 
-      {/* Meaning */}
-      <Text style={styles.meaningText} numberOfLines={3}>
-        {word.meaning}
-      </Text>
-
-      {/* Example Quote */}
-      {word.example_sentence ? (
-        <View style={styles.exampleContainer}>
-          <Ionicons
-            name="chatbubble-ellipses-outline"
-            size={16}
-            color={Colors.accent}
-            style={styles.quoteIcon}
-          />
-          <Text style={styles.exampleText} numberOfLines={3}>
-            "{word.example_sentence}"
-          </Text>
+        {/* Footer navigation cue */}
+        <View style={styles.footerRow}>
+          <Text style={styles.footerActionText}>Detaylı İncele</Text>
+          <Ionicons name="arrow-forward" size={14} color={Colors.primary} />
         </View>
-      ) : null}
-
-      {/* Footer navigation cue */}
-      <View style={styles.footerRow}>
-        <Text style={styles.footerActionText}>Detaylı İncele</Text>
-        <Ionicons name="arrow-forward" size={14} color={Colors.primary} />
-      </View>
-    </TouchableOpacity>
+      </TouchableOpacity>
+    </View>
   );
 };
 
@@ -141,6 +144,9 @@ const styles = StyleSheet.create({
     borderColor: Colors.primaryLight,
     ...Shadows.floating,
     marginVertical: Spacing.sm,
+  },
+  bodyTouchable: {
+    marginTop: Spacing.xs,
   },
   badgeRow: {
     flexDirection: 'row',

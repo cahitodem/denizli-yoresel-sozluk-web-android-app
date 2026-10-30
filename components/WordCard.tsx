@@ -46,16 +46,16 @@ export const WordCard: React.FC<WordCardProps> = ({
   };
 
   return (
-    <TouchableOpacity
-      onPress={onPress}
-      activeOpacity={0.85}
-      accessibilityRole="button"
-      accessibilityLabel={`${word.word}, anlamı: ${word.meaning}`}
-      accessibilityHint="Kelimenin detaylarını görmek için dokunun"
-      style={styles.card}
-    >
+    <View style={styles.card}>
       <View style={styles.headerRow}>
-        <View style={styles.titleContainer}>
+        <TouchableOpacity
+          onPress={onPress}
+          activeOpacity={0.7}
+          accessibilityRole="button"
+          accessibilityLabel={`${word.word}, anlamı: ${word.meaning}`}
+          accessibilityHint="Kelimenin detaylarını görmek için dokunun"
+          style={styles.titleContainer}
+        >
           <Text style={styles.wordTitle} numberOfLines={1}>
             {word.word}
           </Text>
@@ -72,7 +72,7 @@ export const WordCard: React.FC<WordCardProps> = ({
               </Text>
             </View>
           ) : null}
-        </View>
+        </TouchableOpacity>
 
         <View style={styles.actionsContainer}>
           <AudioButton word={word.word} size="sm" />
@@ -98,19 +98,28 @@ export const WordCard: React.FC<WordCardProps> = ({
         </View>
       </View>
 
-      <Text style={styles.meaningText} numberOfLines={3}>
-        {word.meaning}
-      </Text>
+      <TouchableOpacity
+        onPress={onPress}
+        activeOpacity={0.75}
+        accessibilityRole="button"
+        accessibilityLabel={`${word.word} detaylarını görüntüle`}
+        accessibilityHint="Kelimenin detay sayfasına yönlendirir"
+        style={styles.bodyTouchable}
+      >
+        <Text style={styles.meaningText} numberOfLines={3}>
+          {word.meaning}
+        </Text>
 
-      {word.example_sentence ? (
-        <View style={styles.exampleContainer}>
-          <Text style={styles.examplePrefix}>Örnek:</Text>
-          <Text style={styles.exampleText} numberOfLines={2}>
-            "{word.example_sentence}"
-          </Text>
-        </View>
-      ) : null}
-    </TouchableOpacity>
+        {word.example_sentence ? (
+          <View style={styles.exampleContainer}>
+            <Text style={styles.examplePrefix}>Örnek:</Text>
+            <Text style={styles.exampleText} numberOfLines={2}>
+              "{word.example_sentence}"
+            </Text>
+          </View>
+        ) : null}
+      </TouchableOpacity>
+    </View>
   );
 };
 
@@ -123,6 +132,9 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: Colors.cardBorder,
     ...Shadows.medium, // Android elevation: 4, iOS shadow
+  },
+  bodyTouchable: {
+    marginTop: Spacing.xs,
   },
   headerRow: {
     flexDirection: 'row',

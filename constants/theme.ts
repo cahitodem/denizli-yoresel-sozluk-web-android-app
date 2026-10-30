@@ -1,3 +1,4 @@
+import { Platform } from 'react-native';
 import { CategoryInfo } from '../types/dictionary';
 
 export const Colors = {
@@ -82,27 +83,42 @@ export const BorderRadius = {
 };
 
 export const Shadows = {
-  soft: {
-    shadowColor: '#1A1A2E',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.05,
-    shadowRadius: 6,
-    elevation: 2,
-  },
-  medium: {
-    shadowColor: '#1A1A2E',
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.08,
-    shadowRadius: 10,
-    elevation: 4,
-  },
-  floating: {
-    shadowColor: '#C0392B',
-    shadowOffset: { width: 0, height: 6 },
-    shadowOpacity: 0.16,
-    shadowRadius: 12,
-    elevation: 6,
-  },
+  soft: Platform.select({
+    web: {
+      boxShadow: '0px 2px 6px rgba(26, 26, 46, 0.05)',
+    },
+    default: {
+      shadowColor: '#1A1A2E',
+      shadowOffset: { width: 0, height: 2 },
+      shadowOpacity: 0.05,
+      shadowRadius: 6,
+      elevation: 2,
+    },
+  }) as any,
+  medium: Platform.select({
+    web: {
+      boxShadow: '0px 4px 10px rgba(26, 26, 46, 0.08)',
+    },
+    default: {
+      shadowColor: '#1A1A2E',
+      shadowOffset: { width: 0, height: 4 },
+      shadowOpacity: 0.08,
+      shadowRadius: 10,
+      elevation: 4,
+    },
+  }) as any,
+  floating: Platform.select({
+    web: {
+      boxShadow: '0px 6px 16px rgba(192, 57, 43, 0.16)',
+    },
+    default: {
+      shadowColor: '#C0392B',
+      shadowOffset: { width: 0, height: 6 },
+      shadowOpacity: 0.16,
+      shadowRadius: 12,
+      elevation: 6,
+    },
+  }) as any,
 };
 
 export const CATEGORIES: CategoryInfo[] = [
