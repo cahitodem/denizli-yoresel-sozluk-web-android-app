@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "word_001",
+    "word": "Ünnemek",
+    "meaning": "Seslenmek, uzaktan bağırmak, birini yanına çağırmak.",
+    "example_sentence": "Hüseyin'e bi ünneyiver de tarladan eve çorba içmeye gelsin.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_002",
+    "word": "Bıldır",
+    "meaning": "Geçen yıl, bir önceki sene.",
+    "example_sentence": "Bıldır bu vakitler bağ bozumu çoktan bitmiş, pekmezler küplere basılmıştı.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_003",
+    "word": "Cıbıl",
+    "meaning": "Çıplak, üstünde giysi bulunmayan veya yoksul.",
+    "example_sentence": "Cıbıl ayakla taşlığa basma, dışarıda ayaz var tez vakitte üşütürsün.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_004",
+    "word": "Çapıt",
+    "meaning": "Eski kumaş parçası, bez kırpıntısı, paçavra.",
+    "example_sentence": "Eski mintanı çapıt yapıp traktörün motor yağını güzelce sildik.",
+    "category": "giyim_kusam",
+    "audio_url": null
+  },
+  {
+    "id": "word_005",
+    "word": "Böğür",
+    "meaning": "Vücudun kaburga ile kalça arasındaki yan tarafı.",
+    "example_sentence": "Çuvalı kaldırırken böğrüme bir sancı saplandı, iki büklüm dinelip kaldım.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_006",
+    "word": "Gumpir",
+    "meaning": "Patates.",
+    "example_sentence": "Ocaklığın közüne üç beş tane gumpir gömüverdik, pek lezzetli pişti.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_007",
+    "word": "Dinelmek",
+    "meaning": "Ayakta dikilmek, ayakta beklemek.",
+    "example_sentence": "Ne dinelip durun kapının eşiğinde, buyur içeri sedire otur.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_008",
+    "word": "Çimmek",
+    "meaning": "Yıkanmak, banyo yapmak, suya girip serinlemek.",
+    "example_sentence": "Yaz sıcağında bunalan çocuklar çayda çimip neşeyle oynadı.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_009",
+    "word": "Tavatır",
+    "meaning": "Çok güzel, harika, fevkalade, kusursuz.",
+    "example_sentence": "Gelin hanımın getirdiği kalle yemeği doğrusu tavatır olmuş.",
+    "category": "diger",
+    "audio_url": null
+  },
+  {
+    "id": "word_010",
+    "word": "Peşkir",
+    "meaning": "El yüz kurulamak için kullanılan dokuma havlu.",
+    "example_sentence": "Yüzünü pınarda yıka da terekteki dokuma peşkirle kurulanıver.",
+    "category": "giyim_kusam",
+    "audio_url": null
+  },
+  {
+    "id": "word_011",
+    "word": "Horanta",
+    "meaning": "Ev halkı, aile fertleri, çoluk çocuk.",
+    "example_sentence": "Tüm horanta toplanıp kışlık tarhana ve erişte kardık.",
+    "category": "akrabalik",
+    "audio_url": null
+  },
+  {
+    "id": "word_012",
+    "word": "Ağılık",
+    "meaning": "Koyun ve keçilerin toplandığı çit çevrili barınak, ağıl.",
+    "example_sentence": "Akşam ezanında davarları ağılığa katıp kapısını zelveyle sürgiledik.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_013",
+    "word": "Andaç",
+    "meaning": "Hatıra, yadigâr, anmalık armağan.",
+    "example_sentence": "Dedemin bu sedef kakmalı çakısı bana bıldırdan andaç kaldı.",
+    "category": "diger",
+    "audio_url": null
+  },
+  {
+    "id": "word_014",
+    "word": "Anadut",
+    "meaning": "Ekin ve ot saplarını kaldırmaya yarayan üç çatallı tahta dirgen.",
+    "example_sentence": "Anadutla sapları römorka atmak el yordamıyla yüklemekten çok daha kolay.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_015",
+    "word": "Babıç",
+    "meaning": "Ayakkabı, pabuç, terlik.",
+    "example_sentence": "Çamurlu babıçlarını sundurmanın önünde çıkarıver de halı kirlenmesin.",
+    "category": "giyim_kusam",
+    "audio_url": null
+  },
+  {
+    "id": "word_016",
+    "word": "Badiç",
+    "meaning": "Taze fasulye veya bakla kabuğu.",
+    "example_sentence": "Bostandan kopardığımız taze badiçleri ayıklayıp zeytinyağlı pişirdik.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_017",
+    "word": "Boduç",
+    "meaning": "Ağaçtan oyma tek kulplu su kabı, ahşap maşraba.",
+    "example_sentence": "Boduçtaki kuyu suyu yaz gününün kavurucu sıcağında bile buz gibi kalır.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_018",
+    "word": "Böcü",
+    "meaning": "Böcek, küçük haşere.",
+    "example_sentence": "Tarladaki taze filizlere böcü dadanmasın diye sabah erkenden teftiş ettik.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_019",
+    "word": "Bulada",
+    "meaning": "Buldan yöresine has ince dokuma pamuklu başörtüsü, tülbent.",
+    "example_sentence": "Yöresel şenlikte kadınların başına örttüğü desenli bulada göz kamaştırdı.",
+    "category": "giyim_kusam",
+    "audio_url": null
+  },
+  {
+    "id": "word_020",
+    "word": "Cıngıl",
+    "meaning": "Küçük üzüm salkımı, dalından sarkan ufak salkım parçası.",
+    "example_sentence": "Çardağın altından geçerken bir cıngıl çekirdeksiz üzüm koparıp yedim.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_021",
+    "word": "Cıbıldak",
+    "meaning": "Çırılçıplak, üstünde hiç giysi olmayan kimse.",
+    "example_sentence": "Dere kenarında cıbıldak koşturan çocukları anneleri havluyla sardı.",
+    "category": "giyim_kusam",
+    "audio_url": null
+  },
+  {
+    "id": "word_022",
+    "word": "Çelgi",
+    "meaning": "Kadınların başlarına bağladıkları kenarı oyalı yazma veya tülbent.",
+    "example_sentence": "Başına oyalı çelgisini bağlayıp sabah serinliğinde zeytin toplamaya gitti.",
+    "category": "giyim_kusam",
+    "audio_url": null
+  },
+  {
+    "id": "word_023",
+    "word": "Çomça",
+    "meaning": "Ağaçtan oyulmuş büyük çorba kepçesi.",
+    "example_sentence": "Düğün çorbasını koca kazandan çomçayla derin sahanlara koydu.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_024",
+    "word": "Çörten",
+    "meaning": "Toprak veya kiremit damdan yağmur suyunu dışarı akıtan oluk.",
+    "example_sentence": "Sağanak yağmur başlayınca çörtenin altından gürül gürül su boşaldı.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_025",
+    "word": "Çördük",
+    "meaning": "Yaban armudu, dağda yetişen ufak ve ekşimsi ahlat meyvesi.",
+    "example_sentence": "Çameli yaylasından topladığımız çördükleri olgunlaşsın diye samanlığa serdik.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_026",
+    "word": "Çökelek",
+    "meaning": "Kaynatılmış ayrandan elde edilen tuzsuz taze peynir.",
+    "example_sentence": "Sıcak yufka ekmeğinin arasına taze çökelek sarıp dürüm yaptık.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_027",
+    "word": "Dama",
+    "meaning": "Evin tavanı, çatı katı veya düz toprak dam.",
+    "example_sentence": "Yaz geceleri dama serilen pamuk döşeklerde yıldızlara baka baka uyurduk.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_028",
+    "word": "Dığan",
+    "meaning": "İki kulplu yayvan bakır kızartma tavası.",
+    "example_sentence": "Dığanda tereyağıyla kavrulan kuzu eti tüm sokağa mis gibi koktu.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_029",
+    "word": "Dirlik",
+    "meaning": "Aile içi huzur, geçim rahatlığı ve düzen.",
+    "example_sentence": "Mevlam her haneye bol bereket ve ağız tadıyla dirlik nasip etsin.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_030",
+    "word": "Dulda",
+    "meaning": "Rüzgar ve yağmur almayan korunaklı kuytu yer.",
+    "example_sentence": "Poyraz öyle sert esti ki sürüyü ulu kayanın duldasına çektik.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_031",
+    "word": "Düven",
+    "meaning": "Harman dövmek için altına keskin çakmak taşları yerleştirilmiş geniş kızak.",
+    "example_sentence": "Eski zamanlarda harmanı öküzlerin çektiği düvenle akşama kadar döverlerdi.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_032",
+    "word": "Ebekuşağı",
+    "meaning": "Gökkuşağı, alaimisema.",
+    "example_sentence": "Yağmurun ardından Honaz Dağı semalarında rengarenk ebekuşağı belirdi.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_033",
+    "word": "Eğleşmek",
+    "meaning": "Bir yerde beklemek, duraklamak, oyalanmak.",
+    "example_sentence": "Çarşıda fazla eğleşme de akşam karanlığı çökmeden köye yetiş.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_034",
+    "word": "Ellehem",
+    "meaning": "Herhalde, zannedersem, öyle tahmin ediyorum ki.",
+    "example_sentence": "Ellehem yarın pazar yerine erkenden gitmemiz gerekecek.",
+    "category": "diger",
+    "audio_url": null
+  },
+  {
+    "id": "word_035",
+    "word": "Enik",
+    "meaning": "Köpek veya kedi yavrusu.",
+    "example_sentence": "Çoban köpeğinin sevimli enikleri saman balyalarının arasında oynaşıyordu.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_036",
+    "word": "Eşinmek",
+    "meaning": "Hayvanların toprağı ayaklarıyla kazması veya karıştırması.",
+    "example_sentence": "Tavuklar asmanın gölgesinde eşinip dane arıyordu.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_037",
+    "word": "Evlek",
+    "meaning": "Tarlanın sürüm veya ekim için ayrılan belirli bölümlerinden her biri.",
+    "example_sentence": "Öğleye kadar iki evlek buğdayı tırpanla biçip harmana yığdık.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_038",
+    "word": "Gödek",
+    "meaning": "Kısa boylu, tıknaz, sevimli kimse.",
+    "example_sentence": "Bizim gödek olan sırtındaki heybeyle herkesten hızlı yürüdü.",
+    "category": "diger",
+    "audio_url": null
+  },
+  {
+    "id": "word_039",
+    "word": "Göleş",
+    "meaning": "Yağmurdan sonra çukurlarda oluşan bulanık çamurlu su birikintisi.",
+    "example_sentence": "Yoldaki derin göleşe basınca pantulunun paçaları sırıl sıklam oldu.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_040",
+    "word": "Gözer",
+    "meaning": "Bakliyat ve tahılı kaba samanından ayırmaya yarayan büyük delikli kalbur.",
+    "example_sentence": "Kaynayan nohutları gözerden geçirip kabuklarından arındırdılar.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_041",
+    "word": "Gübür",
+    "meaning": "Süpürülerek toplanan çöp, toz toprak, süprüntü.",
+    "example_sentence": "Avanın odasındaki gübürü faraşa süpürüp bahçe çöpüne döküverdim.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_042",
+    "word": "Güdük",
+    "meaning": "Kuyruğu veya boyu gerektiğinden kısa kalmış olan.",
+    "example_sentence": "Kuyruğu güdük tazı koyunların peşinden yorulmadan koştu.",
+    "category": "diger",
+    "audio_url": null
+  },
+  {
+    "id": "word_043",
+    "word": "Gümen",
+    "meaning": "Şüphe, içe doğan kuşku, tereddüt.",
+    "example_sentence": "İçime bir gümen düştü, gece yarısı kalkıp ağılın kilidini yokladım.",
+    "category": "diger",
+    "audio_url": null
+  },
+  {
+    "id": "word_044",
+    "word": "Helki",
+    "meaning": "Kulplu madeni süt veya su bakracı.",
+    "example_sentence": "Sabah sağdığımız köpüklü keçi sütünü koca helkiye aktardık.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_045",
+    "word": "Hışır",
+    "meaning": "Aşırı yorulmaktan güçsüz düşmüş, pestili çıkmış kimse.",
+    "example_sentence": "Bütün gün tarlada tütün kırmaktan hışırım çıktı, gözümü açamadım.",
+    "category": "diger",
+    "audio_url": null
+  },
+  {
+    "id": "word_046",
+    "word": "Iğranmak",
+    "meaning": "Kımıldanmak, hafifçe salınmak, yerinde hafif oynamak.",
+    "example_sentence": "Kavak ağacının yaprakları imbat yeli estikçe tatlı tatlı ığranıyordu.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_047",
+    "word": "İlistir",
+    "meaning": "Mutfakta yemek, sebze veya makarna süzülen delikli süzgeç.",
+    "example_sentence": "Haşlanan erişteyi ilistire döküp üzerine soğuk su gezdirdik.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_048",
+    "word": "İyeşmek",
+    "meaning": "Karşılıklı inatlaşmak, gereksizce laf yarıştırmak.",
+    "example_sentence": "Boş bir tarla sınırı için saatlerce iyeşip birbirlerini kırmasınlar.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_049",
+    "word": "Kakıç",
+    "meaning": "Bir iyiliği sürekli hatırlatarak başa kakma, sitem.",
+    "example_sentence": "Yaptığı ufacık yardımın kakıcını senelerce dilinden düşürmedi.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_050",
+    "word": "Kaklık",
+    "meaning": "Kireçtaşlı kayalarda su biriken doğal oyuk veya mağara gölcüğü.",
+    "example_sentence": "Kaklık Mağarası'ndaki basamaklı traverten havuzları berrak sularla doludur.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_051",
+    "word": "Kalle",
+    "meaning": "Denizli güvecinde kuru fasulye, kuşbaşı et ve sebzeyle ağır ateşte pişen yöresel yemek.",
+    "example_sentence": "Odun fırınında saatlerce güveçte kaynayan kalle misafirlere ikram edildi.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_052",
+    "word": "Katık",
+    "meaning": "Kuru ekmeğin yanında yenen peynir, zeytin, helva gibi yiyecek.",
+    "example_sentence": "Tarlada öğle molasında yufkanın içine tulum peynirini katık ettik.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_053",
+    "word": "Kavata",
+    "meaning": "Olgunlaşmamış yeşil domates.",
+    "example_sentence": "Kavatadan kurulan sirkeli turşu kış sofrasında iştah kabartır.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_054",
+    "word": "Kelem",
+    "meaning": "Beyaz baş lahana.",
+    "example_sentence": "Bostandan kestiğimiz körpe kelemle zeytinyağlı sarma sardık.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_055",
+    "word": "Kestel",
+    "meaning": "Bahçe ve tarlaları sulamak için suyun toplandığı taş bend veya havuz.",
+    "example_sentence": "Kestelin bendi açılınca kaynak suyu dere boyunca zeytinliklere dağıldı.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_056",
+    "word": "Kiren",
+    "meaning": "Kızılcık ağacı veya ekşi kırmızı meyvesi.",
+    "example_sentence": "Dağ yamaçlarından topladığımız kirenleri kaynatıp ekşi şerbet yaptık.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_057",
+    "word": "Kirtik",
+    "meaning": "Kullanıla kullanıla küçülüp incelmiş sabun parçası.",
+    "example_sentence": "Lavaboda kalan kirtikleri bir kaba biriktirip kaynatarak değerlendirirdi.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_058",
+    "word": "Kösnük",
+    "meaning": "Aşılama zamanı gelmiş huysuz veya cilveli hayvan.",
+    "example_sentence": "Baharda kösnük kısrak ahırın kapısını zorlayıp durdu.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_059",
+    "word": "Kösnümek",
+    "meaning": "Nazlanmak, cilveli ve gevşek tavırlar sergilemek.",
+    "example_sentence": "Büyükannesinden harçlık isteyen torun sevimli sevimli kösnüyordu.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_060",
+    "word": "Kölük",
+    "meaning": "Boynuzu olmayan ya da boynuzlarından biri kırılmış davar.",
+    "example_sentence": "Sürünün en uysal üyesi olan kölük keçi elimizden yonca yedi.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_061",
+    "word": "Köreşmek",
+    "meaning": "Hamur, yoğurt veya sütün beklemeden ötürü ekşiyip bozulması.",
+    "example_sentence": "Güneşte unutulan yayık ayranı öğleye kalmadan köreşmiş.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_062",
+    "word": "Körük",
+    "meaning": "Ocak ateşini harlamak için kullanılan hava basma düzeneği.",
+    "example_sentence": "Demirci ustası körüğü çektikçe örsün üstündeki demir akkor oldu.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_063",
+    "word": "Kuskun",
+    "meaning": "Semerin öne kaymasını önlemek için hayvanın kuyruk altından geçirilen kayış.",
+    "example_sentence": "Eşeğin kuskununu sağlam bağla ki yokuş inerken semer öne kaymasın.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_064",
+    "word": "Küşüm",
+    "meaning": "Çekinme, iç daralması, utangaçlık veya tedirginlik.",
+    "example_sentence": "Kalabalığı görünce küşüm duyup bir kenara sessizce çekildi.",
+    "category": "diger",
+    "audio_url": null
+  },
+  {
+    "id": "word_065",
+    "word": "Mahana",
+    "meaning": "Bahane, mazeret, ileri sürülen bahane.",
+    "example_sentence": "İşten kaçmak için baş ağrısını mahana edip gölgeye çekildi.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_066",
+    "word": "Mangır",
+    "meaning": "Bozuk para, madeni ufaklık.",
+    "example_sentence": "Cebindeki son mangırla fırından bir sıcak bazlama aldı.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_067",
+    "word": "Masat",
+    "meaning": "Bıçak, tırpan veya nacak bilemeye yarayan çelik alet.",
+    "example_sentence": "Kasap çırağı tırpanı masata sürterek keskinleştirdi.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_068",
+    "word": "Mayhoş",
+    "meaning": "Tadı hem tatlı hem ekşi olan meyve lezzeti.",
+    "example_sentence": "Honaz kirazının yanındaki mayhoş vişneler komposto için pek uygundur.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_069",
+    "word": "Malamat",
+    "meaning": "Dillere düşmüş, rezil rüsva olmuş kimse.",
+    "example_sentence": "Yalanı ortaya çıkınca cümle köye malamat oldu.",
+    "category": "diger",
+    "audio_url": null
+  },
+  {
+    "id": "word_070",
+    "word": "Nahır",
+    "meaning": "Köyün toplu sığır sürüsü.",
+    "example_sentence": "Köyün nahırı sabah çan sesleriyle yaylaya doğru yola çıktı.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_071",
+    "word": "Natır",
+    "meaning": "Geleneksel hamamda kadınlara hizmet eden yıkayıcı görevli kadın.",
+    "example_sentence": "Hamamdaki tecrübeli natır kadın gelin hamamının suyunu ayarladı.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_072",
+    "word": "Ocaklık",
+    "meaning": "Evlerde ateş yakılan, dumanı bacaya giden yemek pişirme köşesi.",
+    "example_sentence": "Ocaklıkta meşe odunu yanarken saç üzerinde bazlamalar kabarıyordu.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_073",
+    "word": "Ortakçı",
+    "meaning": "Tarlayı sahibi adına işleyip mahsulü yarı yarıya bölüşen çiftçi.",
+    "example_sentence": "Bağları ortakçıya emanet ettik, bu sonbahar bereketli geçti.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_074",
+    "word": "Öndüç",
+    "meaning": "Ödünç, geri alınmak şartıyla verilen şey.",
+    "example_sentence": "Komşudan bir çanak un öndüç aldık, yarın fırından alıp iade ederiz.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_075",
+    "word": "Örselemek",
+    "meaning": "Bir eşyayı ya da insanı dikkatsizce yıpratmak, incitmek.",
+    "example_sentence": "Topladığımız üzümleri kasalara koyarken örselememeye dikkat edin.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_076",
+    "word": "Özemek",
+    "meaning": "Yoğurt veya unlu karışımı su katarak çırpıp homojen hale getirmek.",
+    "example_sentence": "Koyu yayık yoğurdunu soğuk suyla güzelce özeyip köpüklü ayran kardık.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_077",
+    "word": "Palaz",
+    "meaning": "Kuş veya keklik yavrusunun irileşmiş hali; boylu poslu genç.",
+    "example_sentence": "Dağ yamacında uçmaya heveslenen keklik palazlarını hayranlıkla izledik.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_078",
+    "word": "Pantul",
+    "meaning": "Pantolon.",
+    "example_sentence": "Dizleri yamalı kadife pantulunu giyip bağ budamaya koyuldu.",
+    "category": "giyim_kusam",
+    "audio_url": null
+  },
+  {
+    "id": "word_079",
+    "word": "Pelit",
+    "meaning": "Meşe ağacının palamut meyvesi.",
+    "example_sentence": "Güz mevsiminde orman tabanına dökülen pelitleri sincaplar topluyordu.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_080",
+    "word": "Pırtı",
+    "meaning": "Dokuma kumaş, manifatura eşyası, giysi bohçası.",
+    "example_sentence": "Pazardan iki metre basma pırtı alıp bayramlık entari diktirdi.",
+    "category": "giyim_kusam",
+    "audio_url": null
+  },
+  {
+    "id": "word_081",
+    "word": "Potuk",
+    "meaning": "Deve yavrusu.",
+    "example_sentence": "Yörük çadırının önünde duran tüylü potuk çocukların sevgilisi oldu.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_082",
+    "word": "Sağrak",
+    "meaning": "Tahtadan oyulmuş kulplu su tası, küçük ahşap kupa.",
+    "example_sentence": "Çeşmenin yalağından sağrakla doldurulan su buz gibiydi.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_083",
+    "word": "Samanlık",
+    "meaning": "Harmandan elde edilen samanın yağmurdan korunduğu kapalı depo.",
+    "example_sentence": "Kış bastırmadan samanlığı kuru saplarla tavana kadar doldurduk.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_084",
+    "word": "Sarnıç",
+    "meaning": "Yağmur sularını biriktirmek için taşla örülmüş kubbeli kuyu.",
+    "example_sentence": "Yayla yolundaki tarihi sarnıç susuz kalan davarlara hayat verdi.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_085",
+    "word": "Savan",
+    "meaning": "Pamuk ipliğinden dokunmuş kalın kilim örtü.",
+    "example_sentence": "Ceviz ağacının altına savan serip hep birlikte öğle aşına oturduk.",
+    "category": "giyim_kusam",
+    "audio_url": null
+  },
+  {
+    "id": "word_086",
+    "word": "Saya",
+    "meaning": "Geleneksel kadın yeleği veya dağda sürü için kurulan derme çatma ağıl.",
+    "example_sentence": "Sırmalı kadife sayasını giyip köy meydanında Tavas zeybeği oynadı.",
+    "category": "giyim_kusam",
+    "audio_url": null
+  },
+  {
+    "id": "word_087",
+    "word": "Seğirtmek",
+    "meaning": "Hızla koşmak, ileriye doğru atılmak.",
+    "example_sentence": "Ezan sesini duyunca tarladan camiye doğru hızla seğirtti.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_088",
+    "word": "Sınıkçı",
+    "meaning": "Kırık ve çıkıkları geleneksel yöntemlerle yerine oturtan usta kimse.",
+    "example_sentence": "Ayağı burkulan pehlivanı ilçedeki meşhur sınıkçıya ulaştırdılar.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_089",
+    "word": "Sıyırma",
+    "meaning": "Taze fasulye tanesizken kıyılarak pişirilen zeytinyağlı yemek.",
+    "example_sentence": "Zeytinyağlı taze fasulye sıyırması yaz günlerinin en hafif aşıdır.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_090",
+    "word": "Soku",
+    "meaning": "Tahıl ve buğdayın tokmakla dövüldüğü büyük oyuk taş dibek.",
+    "example_sentence": "Düğün aşı için aşurelik buğdayı köy meydanındaki sokuda tokmakla dövdüler.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_091",
+    "word": "Sümsük",
+    "meaning": "Yumruk vurma; aynı zamanda pısırık, sünepe kimse.",
+    "example_sentence": "Öyle sümsük gibi bir kenarda oturma, kalk işin ucundan tut.",
+    "category": "diger",
+    "audio_url": null
+  },
+  {
+    "id": "word_092",
+    "word": "Şapşak",
+    "meaning": "Su ve ayran içmeye yarayan tek kulplu teneke ya da bakır maşraba.",
+    "example_sentence": "Testiden şapşakla doldurduğu suyu bir dikişte bitirdi.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_093",
+    "word": "Şilepe",
+    "meaning": "Ağdalı şerbet, pekmez veya reçelin yere döküldüğünde bıraktığı yapışkanlık.",
+    "example_sentence": "Pekmez kavanozu yere damlayınca kilimin üstü şilepe oldu.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_094",
+    "word": "Tapkır",
+    "meaning": "Binek hayvanının semerini göğsünden bağlayan enli kolon kayışı.",
+    "example_sentence": "Dağdan odun indirirken eşeğin tapkırını iyice gerdik.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_095",
+    "word": "Tarhana",
+    "meaning": "Kurutulmuş yoğurt, göce ve nane ile yapılan Denizli usulü geleneksel çorba harcı.",
+    "example_sentence": "Denizli'nin kış sabahlarında tereyağlı sıcak tarhana çorbası içilir.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_096",
+    "word": "Terek",
+    "meaning": "Mutfakta bakır tabak ve sahanların dizildiği ahşap duvar rafı.",
+    "example_sentence": "Kalaylanmış pırıl pırıl sahanları mutfaktaki terek raflarına dizdi.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_097",
+    "word": "Tıngır",
+    "meaning": "İçi boş madeni kap veya teneke sesi çıkaran nesne.",
+    "example_sentence": "Zeytinyağı tenekesi boşalınca tıngır tıngır ses vermeye başladı.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_098",
+    "word": "Tosbağa",
+    "meaning": "Kaplumbağa.",
+    "example_sentence": "Bahçe çitinin dibinde ağır ağır ilerleyen tosbağayı çocuklara gösterdik.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_099",
+    "word": "Uğra",
+    "meaning": "Hamur açılırken tahtaya ve oklavaya yapışmasın diye serpilen un.",
+    "example_sentence": "Yufka açarken tahtaya bolca uğra serpti ki hamur yırtılmasın.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_100",
+    "word": "Uçkur",
+    "meaning": "Şalvarın veya donun beline geçirilen kumaş bağlama ipi.",
+    "example_sentence": "Şalvarının uçkurunu bağlayıp beline kuşak sardı.",
+    "category": "giyim_kusam",
+    "audio_url": null
+  },
+  {
+    "id": "word_101",
+    "word": "Üveç",
+    "meaning": "İki yaşını doldurmuş genç erkek koyun.",
+    "example_sentence": "Yaylada otlayan besili üveçler sürünün en önünde yürüyordu.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_102",
+    "word": "Yağlık",
+    "meaning": "İşlemeli, kenarı oyalı kumaş mendil veya küçük el bezi.",
+    "example_sentence": "Cebinden ipek işlemeli yağlığını çıkarıp alnının terini sildi.",
+    "category": "giyim_kusam",
+    "audio_url": null
+  },
+  {
+    "id": "word_103",
+    "word": "Yaşmak",
+    "meaning": "Kadınların baş ve yüz çevresini örtmek için kullandıkları tülbent.",
+    "example_sentence": "Rüzgarlı havada yaşmağını burnuna kadar çekip tarlaya vardı.",
+    "category": "giyim_kusam",
+    "audio_url": null
+  },
+  {
+    "id": "word_104",
+    "word": "Yayan",
+    "meaning": "Herhangi bir binek hayvanı veya araca binmeksizin yürüyerek giden.",
+    "example_sentence": "Yayan yapıldak iki saat dağ yolunu aşıp bayram namazına yetiştik.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_105",
+    "word": "Yelikmek",
+    "meaning": "Şımarmak, yaramazlık yapmak, sevinçten taşkınca koşturmak.",
+    "example_sentence": "Bayram harçlığını alan küçükler bahçede sevinçle yelikişiyordu.",
+    "category": "diger",
+    "audio_url": null
+  },
+  {
+    "id": "word_106",
+    "word": "Yoz",
+    "meaning": "Sağılmayan kısır koyun ve keçi sürüsü.",
+    "example_sentence": "Yoz sürüsünü yüksek rakımlı yayla otlaklarına sürdüler.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_107",
+    "word": "Zağar",
+    "meaning": "Küçük yapılı, keskin koklama yeteneği olan av köpeği cinsi.",
+    "example_sentence": "Bizim zağar çalılıktaki kekliğin izini saniyeler içinde buldu.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_108",
+    "word": "Zıbın",
+    "meaning": "Bebekler için yumuşak pamuklu kumaştan dikilen iç yeleği.",
+    "example_sentence": "Sandıktan yeni doğan bebek için lavanta kokulu beyaz zıbın çıkardı.",
+    "category": "giyim_kusam",
+    "audio_url": null
+  },
+  {
+    "id": "word_109",
+    "word": "Zelve",
+    "meaning": "Öküz boyunduruğunun deliklerine takılan sağlam ağaç kilit pimi.",
+    "example_sentence": "Sabanı koşmadan önce boyunduruğun zelvesini sıkıca yerine oturttu.",
+    "category": "tarim",
+    "audio_url": null
+  },
+  {
+    "id": "word_110",
+    "word": "Zembil",
+    "meaning": "Hasır, saz veya deriden yapılmış kulplu geniş sepet, el çantası.",
+    "example_sentence": "Bağdan topladığı taze incirleri zembile doldurup çarşıya götürdü.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_111",
+    "word": "Ebe",
+    "meaning": "Büyükanne, nine.",
+    "example_sentence": "Ebem ocağın başında bize geçmiş günlerin masallarını anlatırdı.",
+    "category": "akrabalik",
+    "audio_url": null
+  },
+  {
+    "id": "word_112",
+    "word": "Bibi",
+    "meaning": "Hala, babanın kız kardeşi.",
+    "example_sentence": "Bibi bize bayramda yemek için kalle ve cevizli baklava pişirmiş.",
+    "category": "akrabalik",
+    "audio_url": null
+  },
+  {
+    "id": "word_113",
+    "word": "Emi",
+    "meaning": "Amca, babanın erkek kardeşi.",
+    "example_sentence": "Emin sabahleyin traktörle tarlayı sürmeye erkenden gitti.",
+    "category": "akrabalik",
+    "audio_url": null
+  },
+  {
+    "id": "word_114",
+    "word": "Bacı",
+    "meaning": "Kız kardeş, abla.",
+    "example_sentence": "Bacımla el birliği yapıp kışlık konserve ve salçaları hazırladık.",
+    "category": "akrabalik",
+    "audio_url": null
+  },
+  {
+    "id": "word_115",
+    "word": "Ağa",
+    "meaning": "Ağabey, ailenin en büyük erkek kardeşi.",
+    "example_sentence": "Ağam şehir mektebinden dönünce tüm ev halkı sofraya oturduk.",
+    "category": "akrabalik",
+    "audio_url": null
+  },
+  {
+    "id": "word_116",
+    "word": "Dünürcü",
+    "meaning": "Kız isteme merasimi için gelen erkek tarafının aile büyükleri.",
+    "example_sentence": "Dünürcüler akşama geleceğinden evi baştan aşağı süpürüp temizledik.",
+    "category": "akrabalik",
+    "audio_url": null
+  },
+  {
+    "id": "word_117",
+    "word": "Elti",
+    "meaning": "Kardeşlerin eşleri olan kadınların birbirine göre akrabalığı.",
+    "example_sentence": "İki elti tarlada omuz omuza verip pamuk balyalarını taşıdı.",
+    "category": "akrabalik",
+    "audio_url": null
+  },
+  {
+    "id": "word_118",
+    "word": "Görümce",
+    "meaning": "Bir kadının eşinin kız kardeşi.",
+    "example_sentence": "Gelinle görümce düğün gecesi çalan zeybek türküsünde birlikte oynadı.",
+    "category": "akrabalik",
+    "audio_url": null
+  },
+  {
+    "id": "word_119",
+    "word": "Baldız",
+    "meaning": "Erkeğe göre eşinin kız kardeşi.",
+    "example_sentence": "Baldız yayladan taze keçi tereyağı ve kuru incir getirmiş.",
+    "category": "akrabalik",
+    "audio_url": null
+  },
+  {
+    "id": "word_120",
+    "word": "Kayın",
+    "meaning": "Eşin erkek kardeşi.",
+    "example_sentence": "Kayın birader harman zamanı düven sürmede bize çok destek oldu.",
+    "category": "akrabalik",
+    "audio_url": null
+  },
+  {
+    "id": "word_121",
+    "word": "Yeğen",
+    "meaning": "Kardeşin veya eşin kardeşinin çocuğu.",
+    "example_sentence": "Küçük yeğen pınardan doldurduğu boduçla tarladakilere su dağıttı.",
+    "category": "akrabalik",
+    "audio_url": null
+  },
+  {
+    "id": "word_122",
+    "word": "Geven",
+    "meaning": "Yüksek dağ yamaçlarında yetişen, yakıldığında çabuk parlayan dikenli çalı.",
+    "example_sentence": "Çobanlar gece ayazında toplanan gevenleri tutuşturup ateş başında ısındı.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_123",
+    "word": "Börülce",
+    "meaning": "Denizli yöresinde hem tazesi hem kurusu sevilerek tüketilen karnıkara bakliyat.",
+    "example_sentence": "Haşlanan börülcenin üzerine zeytinyağı ve ezilmiş sarımsak döküp yedik.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_124",
+    "word": "Ayran aşı",
+    "meaning": "Haşlanmış aşurelik buğday, nohut ve soğuk koyu yoğurtla hazırlanan ferahlatıcı aşı.",
+    "example_sentence": "Harman sıcağında buz gibi bir tas ayran aşı insanın içini serinletir.",
+    "category": "yiyecek_icecek",
+    "audio_url": null
+  },
+  {
+    "id": "word_125",
+    "word": "Yanırı",
+    "meaning": "Omuz başı ile kürek kemiği arasındaki sırt bölgesi.",
+    "example_sentence": "Ağır un çuvalını sırtlanınca yanırım fena halde tutuldu.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  },
+  {
+    "id": "word_126",
+    "word": "Çıngı",
+    "meaning": "Ateşten çevreye sıçrayan küçük kıvılcım veya akkor kor parçası.",
+    "example_sentence": "Ocaklıktan sıçrayan çıngı savanın kenarına düşmeden hemen söndürdük.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_127",
+    "word": "Kösnü",
+    "meaning": "Köstebek, toprak altında galeriler açan yaban hayvanı.",
+    "example_sentence": "Bahçedeki taze patates ocaklarını kösnü alttan delip tahrip etmiş.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_128",
+    "word": "Gıygıdı",
+    "meaning": "Kabak kemane benzeri geleneksel telli çalgı veya gıcırtılı ezgi.",
+    "example_sentence": "Köy meydanında aşık gıygıdısını çalarak eski Denizli türkülerini söyledi.",
+    "category": "diger",
+    "audio_url": null
+  },
+  {
+    "id": "word_129",
+    "word": "Çalpov",
+    "meaning": "Yağmurla karışık rüzgarlı sulusepken kar fırtınası.",
+    "example_sentence": "Honaz geçidinde çalpova yakalanınca hemen yol kenarındaki hana sığındık.",
+    "category": "doga",
+    "audio_url": null
+  },
+  {
+    "id": "word_130",
+    "word": "Döş",
+    "meaning": "Göğüs, bağır, kalbin üst kısmı.",
+    "example_sentence": "Poyraz öyle soğuk vuruyordu ki yeleğimin önünü ilikleyip döşümü örttüm.",
+    "category": "gunluk_yasam",
+    "audio_url": null
+  }
+]

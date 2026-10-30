@@ -1,0 +1,13 @@
+{
+  "project_name": "denizli-yoresel-sozluk",
+  "framework": "expo-router",
+  "known_pitfalls": [
+    "Always use 'tr-TR' locale for case transformations (I/ı, İ/i).",
+    "Keep touch targets at least 44x44px for accessibility.",
+    "Web audio requires SpeechSynthesis fallback if native Speech is unavailable or in SSR."
+  ],
+  "build_quirks": [
+    "Expo Router requires entry in package.json to be 'expo-router/entry'.",
+    "Ensure react-native-safe-area-context and react-native-screens are installed."
+  ]
+}
